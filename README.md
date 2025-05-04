@@ -5,9 +5,9 @@ This project analyzes healthcare infrastructure and social security stress acros
 
 ---
 ## Dataset Summary
-**Source**  : U.S. Metropolitan Healthcare Dataset
-**Scope**   : 83 U.S Cities
-**Columns** : City, NumMDs, RateMDs, NumHospitals, NumBeds, RateBeds, NumMedicare, PctChangeMedicare, MedicareRate, SSBNum, SSBRate, SSBChange, NumRetired, SSINum, SSIRate, SqrtMDs
+- **Source**  : U.S. Metropolitan Healthcare Dataset
+- **Scope**   : 83 U.S Cities
+- **Columns** : City, NumMDs, RateMDs, NumHospitals, NumBeds, RateBeds, NumMedicare, PctChangeMedicare, MedicareRate, SSBNum, SSBRate, SSBChange, NumRetired, SSINum, SSIRate, SqrtMDs
 
 ---
 ## Data Preparation
